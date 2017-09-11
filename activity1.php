@@ -123,6 +123,5 @@
 			?>
 			</fieldset>
 			</body>
-			asdfasfsafs
 		
 </html>
